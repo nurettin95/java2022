@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\java2022"/>
 			<item value="D:\java2022\campSpring\homeWork4.1"/>
 			<item value="D:\campSpring\rentACar"/>
 		</list>
